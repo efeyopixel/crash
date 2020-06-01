@@ -44,3 +44,5 @@ Password:
 ```
 cmd://putty -load "Default Settings" localhost -l {USERNAME} -pw {PASSWORD}
 ```
+
+![](docs/PuttySSH_KeePass.PNG)
