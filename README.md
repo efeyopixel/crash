@@ -37,3 +37,10 @@ Password:
 
 ```
 
+##### Launch Putty From KeePass Securely
+
+###### Add a new URL entry in KeePass with the following;
+
+```
+cmd://putty -load "Default Settings" localhost -l {USERNAME} -pw {PASSWORD}
+```
