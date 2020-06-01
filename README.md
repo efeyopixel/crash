@@ -27,3 +27,13 @@ $ curl -i -v telnet://localhost:22
 *   Trying ::1:22...
 * Connected to localhost (::1) port 22 (#0)
 ```
+
+##### Connect To SSH Server (with credentials as admin/admin);
+
+```sh
+$ ssh admin@localhost
+Password authentication
+Password:
+
+```
+
